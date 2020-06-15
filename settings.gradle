@@ -1,0 +1,2 @@
+rootProject.name='Xilo'
+include ':app'
